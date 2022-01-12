@@ -1,0 +1,131 @@
+,school,talent,win_rate,conference
+1,Air Force,151.86,0.818181818,Mountain West
+2,Akron,312.81,0,Mid-American
+3,Alabama,984.96,0.818181818,SEC
+4,Appalachian State,412.32,0.916666667,Sun Belt
+5,Arizona,570.07,0.272727273,Pac-12
+6,Arizona State,686.44,0.545454545,Pac-12
+7,Arkansas,707.72,0.090909091,SEC
+8,Arkansas State,447.87,0.545454545,Sun Belt
+9,Army,265.19,0.272727273,FBS Independents
+10,Auburn,843.93,0.727272727,SEC
+11,Ball State,327.92,0.363636364,Mid-American
+12,Baylor,668.9,0.833333333,Big 12
+13,Boise State,561.42,0.916666667,Mountain West
+14,Boston College,564.95,0.454545455,ACC
+15,Bowling Green,315.44,0.181818182,Mid-American
+16,Buffalo,284.74,0.545454545,Mid-American
+17,BYU,560.78,0.545454545,FBS Independents
+18,California,611.58,0.545454545,Pac-12
+19,Central Michigan,416.63,0.583333333,Mid-American
+20,Charlotte,386.38,0.545454545,Conference USA
+21,Cincinnati,576.61,0.769230769,American Athletic
+22,Clemson,863.03,1,ACC
+23,Coastal Carolina,305.73,0.363636364,Sun Belt
+24,Colorado,614.27,0.416666667,Pac-12
+25,Colorado State,518.83,0.272727273,Mountain West
+26,Connecticut,412.55,0.090909091,American Athletic
+27,Duke,633.24,0.363636364,ACC
+28,East Carolina,468.23,0.2,American Athletic
+29,Eastern Michigan,317.49,0.454545455,Mid-American
+30,Florida,835.68,0.8,SEC
+31,Florida Atlantic,524.02,0.75,Conference USA
+32,Florida International,532.88,0.454545455,Conference USA
+33,Florida State,878.07,0.454545455,ACC
+34,Fresno State,482.79,0.272727273,Mountain West
+35,Georgia,960.16,0.833333333,SEC
+36,Georgia Southern,411.8,0.545454545,Sun Belt
+37,Georgia State,369.05,0.545454545,Sun Belt
+38,Georgia Tech,629.1,0.272727273,ACC
+39,Hawai'i,420.99,0.615384615,Mountain West
+40,Houston,597.62,0.272727273,American Athletic
+41,Illinois,661.73,0.5,Big Ten
+42,Indiana,603.81,0.636363636,Big Ten
+43,Iowa,637.65,0.75,Big Ten
+44,Iowa State,597.15,0.545454545,Big 12
+45,Kansas,528.62,0.181818182,Big 12
+46,Kansas State,543.49,0.636363636,Big 12
+47,Kent State,313.22,0.454545455,Mid-American
+48,Kentucky,672.74,0.545454545,SEC
+49,Liberty,153.48,0.5,FBS Independents
+50,Louisiana,406.49,0.75,Sun Belt
+51,Louisiana Monroe,346.03,0.363636364,Sun Belt
+52,Louisiana Tech,501.25,0.727272727,Conference USA
+53,Louisville,645.84,0.545454545,ACC
+54,LSU,906.17,1,SEC
+55,Marshall,489.63,0.636363636,Conference USA
+56,Maryland,703.94,0.181818182,Big Ten
+57,Memphis,551.97,0.916666667,American Athletic
+58,Miami,815.12,0.454545455,ACC
+59,Miami (OH),359.14,0.583333333,Mid-American
+60,Michigan,853.4,0.75,Big Ten
+61,Michigan State,688.74,0.5,Big Ten
+62,Middle Tennessee,450.79,0.272727273,Conference USA
+63,Minnesota,621.36,0.818181818,Big Ten
+64,Mississippi State,732.68,0.454545455,SEC
+65,Missouri,642.83,0.454545455,SEC
+66,Navy,335.4,0.818181818,American Athletic
+67,NC State,668.85,0.272727273,ACC
+68,Nebraska,729.47,0.416666667,Big Ten
+69,Nevada,461.96,0.545454545,Mountain West
+70,New Mexico,401.9,0.090909091,Mountain West
+71,New Mexico State,269.79,0.090909091,FBS Independents
+72,North Carolina,697.75,0.454545455,ACC
+73,North Texas,457.24,0.272727273,Conference USA
+74,Northern Illinois,397.98,0.363636364,Mid-American
+75,Northwestern,612.62,0.25,Big Ten
+76,Notre Dame,843.29,0.833333333,FBS Independents
+77,Ohio,337.17,0.454545455,Mid-American
+78,Ohio State,973.56,1,Big Ten
+79,Oklahoma,869.53,0.916666667,Big 12
+80,Oklahoma State,644.42,0.636363636,Big 12
+81,Old Dominion,374.74,0,Conference USA
+82,Ole Miss,717.92,0.272727273,SEC
+83,Oregon,817.7,0.833333333,Pac-12
+84,Oregon State,595.5,0.363636364,Pac-12
+85,Penn State,857.34,0.818181818,Big Ten
+86,Pittsburgh,637.95,0.545454545,ACC
+87,Purdue,607.4,0.333333333,Big Ten
+88,Rice,397.04,0.25,Conference USA
+89,Rutgers,587.28,0.166666667,Big Ten
+90,San Diego State,504.19,0.727272727,Mountain West
+91,San Jose State,433.33,0.363636364,Mountain West
+92,SMU,565.15,0.833333333,American Athletic
+93,South Alabama,381.38,0.090909091,Sun Belt
+94,South Carolina,762.68,0.272727273,SEC
+95,South Florida,559.66,0.272727273,American Athletic
+96,Southern Mississippi,456.29,0.545454545,Conference USA
+97,Stanford,787.59,0.333333333,Pac-12
+98,Syracuse,574.82,0.363636364,ACC
+99,TCU,691.63,0.363636364,Big 12
+100,Temple,489.03,0.636363636,American Athletic
+101,Tennessee,830.34,0.545454545,SEC
+102,Texas,877.91,0.583333333,Big 12
+103,Texas A&M,848.89,0.545454545,SEC
+104,Texas State,348.47,0.181818182,Sun Belt
+105,Texas Tech,577.21,0.272727273,Big 12
+106,Toledo,451.43,0.454545455,Mid-American
+107,Troy,388.67,0.363636364,Sun Belt
+108,Tulane,486.98,0.454545455,American Athletic
+109,Tulsa,424.54,0.333333333,American Athletic
+110,UAB,441.81,0.666666667,Conference USA
+111,UCF,598.57,0.727272727,American Athletic
+112,UCLA,741.4,0.333333333,Pac-12
+113,UMass,358.88,0.090909091,FBS Independents
+114,UNLV,462.72,0.272727273,Mountain West
+115,USC,915.56,0.666666667,Pac-12
+116,UT San Antonio,471.36,0.272727273,Conference USA
+117,Utah,620.35,0.833333333,Pac-12
+118,Utah State,424.16,0.545454545,Mountain West
+119,UTEP,355.31,0,Conference USA
+120,Vanderbilt,605.06,0.181818182,SEC
+121,Virginia,580.28,0.666666667,ACC
+122,Virginia Tech,696.39,0.6,ACC
+123,Wake Forest,563.24,0.636363636,ACC
+124,Washington,801.33,0.545454545,Pac-12
+125,Washington State,556.27,0.454545455,Pac-12
+126,West Virginia,639.11,0.363636364,Big 12
+127,Western Kentucky,486.97,0.727272727,Conference USA
+128,Western Michigan,452.05,0.545454545,Mid-American
+129,Wisconsin,675.8,0.769230769,Big Ten
+130,Wyoming,397.9,0.545454545,Mountain West

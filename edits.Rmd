@@ -1,0 +1,25 @@
+---
+title: "shiny edits"
+author: "Nick Sun"
+date: "6/4/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Notes from Ying
+
++ Move how to use in first tab
++ Put Pythagoran plot in its own tab
++ Fix x-axis on first plot
+    + Also Make total first facet
++ Fix consistency of plot titles
++ Remove x-axis title on pythagorean plot
+    + Fix second plot so that the actual win rate can be a clear box with no color
++ Change CFB to college football
++ Move helptext of third plot to the top
+    + Change font size to 3
+    + Add color legend
+    + 
