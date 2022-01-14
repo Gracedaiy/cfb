@@ -1,11 +1,13 @@
 # Exploring College Football
 
-Hi! My name is Ying Dai and I love Rutgers Football.
+Hi! My name is Ying Dai and I love Oregon State football.
 
 College football is an exciting past time, but is notoriously complex for newcomers to fully understand.
 Not only are the rules of play very intricate, but there are over 130 top teams to keep track of!
 
 This app is for exploring different win rates in American D1 college football so that prospective college football fans can be better informed when picking a favorite team!
+
+Check out the deployed app [here](https://yingdai1130.shinyapps.io/shiny/?_ga=2.241989698.1730850034.1642134703-924289114.1642134703), hosted on shinyapps.io
 
 # Visualization Examples
 
